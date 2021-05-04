@@ -1,0 +1,18 @@
+the platform allows its visitors to enter the file path of the CSV file on a screen, the contents of the file are then uploaded to a server, and the result is displayed.
+
+ENVIRONMENT
+1. Chrome browser
+2. Source App - app-all-architectures-debug.apk
+https://github.com/BundleOssCode/billable-hours-app-test
+
+Steps to Reproduce
+1.  install the App on Android
+2. Click on the allow on opening
+3. Enter the CSV file location in the text box
+4.  click the "continue" button
+
+Expected Result 
+A new page Displaying details of the parse result
+
+Actual Result
+The screen remains on the same page

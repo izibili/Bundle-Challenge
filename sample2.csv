@@ -1,0 +1,6 @@
+Employee ID,Billable Rate (per hour),Project,Date,Start Time,End Time
+1,35,Bundle,2019-07-01,09:00,17:00
+2,100,GBank,2019-07-01,11:00,16:00
+4,350,Bundle,2019-07-01,09:00,17:00
+4,300,Bundle,2019-07-01,19:00,20:30
+2,100,GBank,2019-07-01,13:00,16:00

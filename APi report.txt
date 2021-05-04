@@ -1,0 +1,19 @@
+the platform allows the backend to post and get updates of companies
+
+ENVIRONMENT
+1. Postman
+2. Source - https://csvdemomockappp.bundlewallet.com/
+
+
+Steps to Reproduce
+1.  Make the Api Url the new environment
+2. create a post request
+3. View HTTP status code
+3. create a get request
+4.  View the HTTP status code
+
+Expected Result 
+the parameters of the post ought to show in the result when posting and the same result ought to be gotten when you create a get request with status code 200
+
+Actual Result
+In both cases, the status code is 522 which means Connection time out between webserver and Cloudflare
